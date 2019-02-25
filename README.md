@@ -1,2 +1,2 @@
 # reactivision
-Code for running the reactivision cameras and saving data
+Code for saving data from the reactivision cameras
